@@ -1,0 +1,4 @@
+﻿  contact.c
+C:\Users\小谢\Desktop\C Program\code\filecontact\filecontact\contact.c(146,26): warning C4090: “函数”: 不同的“const”限定符
+C:\Users\小谢\Desktop\C Program\code\filecontact\filecontact\contact.c(22): warning C4715: “findbyname”: 不是所有的控件路径都返回值
+  filecontact.vcxproj -> C:\Users\小谢\Desktop\C Program\code\filecontact\Debug\filecontact.exe
