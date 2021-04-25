@@ -1,0 +1,10 @@
+file:C:\Users\Сл\Desktop\C Program\code\class4_22\class4_22\test.c line:17 date:Apr 23 2021 time:09:18:58 i=0
+file:C:\Users\Сл\Desktop\C Program\code\class4_22\class4_22\test.c line:17 date:Apr 23 2021 time:09:18:58 i=1
+file:C:\Users\Сл\Desktop\C Program\code\class4_22\class4_22\test.c line:17 date:Apr 23 2021 time:09:18:58 i=2
+file:C:\Users\Сл\Desktop\C Program\code\class4_22\class4_22\test.c line:17 date:Apr 23 2021 time:09:18:58 i=3
+file:C:\Users\Сл\Desktop\C Program\code\class4_22\class4_22\test.c line:17 date:Apr 23 2021 time:09:18:58 i=4
+file:C:\Users\Сл\Desktop\C Program\code\class4_22\class4_22\test.c line:17 date:Apr 23 2021 time:09:18:58 i=5
+file:C:\Users\Сл\Desktop\C Program\code\class4_22\class4_22\test.c line:17 date:Apr 23 2021 time:09:18:58 i=6
+file:C:\Users\Сл\Desktop\C Program\code\class4_22\class4_22\test.c line:17 date:Apr 23 2021 time:09:18:58 i=7
+file:C:\Users\Сл\Desktop\C Program\code\class4_22\class4_22\test.c line:17 date:Apr 23 2021 time:09:18:58 i=8
+file:C:\Users\Сл\Desktop\C Program\code\class4_22\class4_22\test.c line:17 date:Apr 23 2021 time:09:18:58 i=9
